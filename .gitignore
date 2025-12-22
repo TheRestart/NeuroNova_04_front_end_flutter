@@ -1,0 +1,8 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+android/local.properties
